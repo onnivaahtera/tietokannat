@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d55f7edc7c4efeef",
+        "id": "85dfc6fbc104ece5",
         "type": "tabs",
         "children": [
           {
-            "id": "a4387a57ade0d413",
+            "id": "066a582663713822",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Where-osan liitosehto harjoitukset.md",
+                "file": "Yhteen tauluun kohdistuvien kyselyiden harjoitukset.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Where-osan liitosehto harjoitukset.md",
+                "file": "Yhteen tauluun kohdistuvien kyselyiden harjoitukset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Where-osan liitosehto harjoitukset.md",
+                "file": "Yhteen tauluun kohdistuvien kyselyiden harjoitukset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Where-osan liitosehto harjoitukset.md"
+                "file": "Yhteen tauluun kohdistuvien kyselyiden harjoitukset.md"
               }
             }
           }
@@ -146,23 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a4387a57ade0d413",
+  "active": "066a582663713822",
   "lastOpenFiles": [
-    "Yhteen tauluun kohdistuvien kyselyiden harjoitukset.md",
     "Where-osan liitosehto harjoitukset.md",
+    "Yhteen tauluun kohdistuvien kyselyiden harjoitukset.md",
+    "images/3-3.png",
+    "images/Screenshot 2024-10-20 at 11.30.21 PM.png",
+    "images/Screenshot 2024-10-20 at 11.28.24 PM.png",
+    "images/Screenshot 2024-10-20 at 2.22.10 PM.png",
+    "images/Screenshot 2024-10-20 at 2.05.21 PM.png",
     "images/Screenshot 2024-10-20 at 1.46.50 PM.png",
     "Screenshot.md",
     "Pasted image 20241020134713.png",
     "Pasted image 20241020134703.png",
-    "images/Screenshot 2024-09-17 at 1.30.40 PM.png",
     "Untitled.md",
     "Untitled",
     "images/Pasted image 20240917144440.png",
     "images/Pasted image 20240917144419.png",
-    "images/Pasted image 20240917144320.png",
-    "images/Pasted image 20240917144318.png",
-    "images/Pasted image 20240917144139.png",
-    "images/Screenshot 2024-09-17 at 1.32.46 PM.png",
     "images"
   ]
 }
