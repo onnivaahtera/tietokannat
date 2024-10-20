@@ -1,2 +1,2 @@
 SELECT country.name AS "country name", airport.name AS "airport name" FROM country JOIN airport ON country.iso_country = airport.iso_country WHERE country.name = 'Iceland';
-	![[Pasted image 20241020134713.png]]
+	![[Screenshot 2024-10-20 at 1.46.50 PM.png]]
