@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c9cc74a15d9ea7f6",
+        "id": "d55f7edc7c4efeef",
         "type": "tabs",
         "children": [
           {
-            "id": "8ba61403b1f30351",
+            "id": "a4387a57ade0d413",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Where-osan liitosehto harjoitukset.md",
+                "file": "Yhteen tauluun kohdistuvien kyselyiden harjoitukset.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Where-osan liitosehto harjoitukset.md",
+                "file": "Yhteen tauluun kohdistuvien kyselyiden harjoitukset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Where-osan liitosehto harjoitukset.md",
+                "file": "Yhteen tauluun kohdistuvien kyselyiden harjoitukset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Where-osan liitosehto harjoitukset.md"
+                "file": "Yhteen tauluun kohdistuvien kyselyiden harjoitukset.md"
               }
             }
           }
@@ -146,11 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ba61403b1f30351",
+  "active": "a4387a57ade0d413",
   "lastOpenFiles": [
-    "images/Screenshot 2024-10-20 at 1.46.50 PM.png",
-    "Yhteen tauluun kohdistuvien kyselyiden harjoitukset.md",
     "Where-osan liitosehto harjoitukset.md",
+    "images/Screenshot 2024-10-20 at 1.46.50 PM.png",
+    "Screenshot.md",
+    "Yhteen tauluun kohdistuvien kyselyiden harjoitukset.md",
     "Pasted image 20241020134713.png",
     "Pasted image 20241020134703.png",
     "images/Screenshot 2024-09-17 at 1.30.40 PM.png",
@@ -162,7 +163,6 @@
     "images/Pasted image 20240917144318.png",
     "images/Pasted image 20240917144139.png",
     "images/Screenshot 2024-09-17 at 1.32.46 PM.png",
-    "Pasted image 20240917143436.png",
     "images"
   ]
 }
