@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "85dfc6fbc104ece5",
+        "id": "71c6c3979305974d",
         "type": "tabs",
         "children": [
           {
-            "id": "066a582663713822",
+            "id": "723036f5ffaf4e15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yhteen tauluun kohdistuvien kyselyiden harjoitukset.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yhteen tauluun kohdistuvien kyselyiden harjoitukset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yhteen tauluun kohdistuvien kyselyiden harjoitukset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Yhteen tauluun kohdistuvien kyselyiden harjoitukset.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,23 +138,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "346ef163856c0d22",
+  "active": "723036f5ffaf4e15",
   "lastOpenFiles": [
     "Where-osan liitosehto harjoitukset.md",
-    "Yhteen tauluun kohdistuvien kyselyiden harjoitukset.md",
-    "images/3-4.png",
-    "images/Screenshot 2024-10-20 at 11.30.21 PM.png",
-    "images/Screenshot 2024-10-20 at 11.28.24 PM.png",
-    "images/Screenshot 2024-10-20 at 2.22.10 PM.png",
-    "images/Screenshot 2024-10-20 at 2.05.21 PM.png",
-    "images/Screenshot 2024-10-20 at 1.46.50 PM.png",
-    "Screenshot.md",
+    "images/4-10.png",
+    "images/4-9.png",
+    "images/4-8.png",
+    "images/4-7.png",
+    "images/4-6.png",
     "Pasted image 20241020134713.png",
     "Pasted image 20241020134703.png",
+    "README.md",
+    "Yhteen tauluun kohdistuvien kyselyiden harjoitukset.md",
+    "images/Pasted image 20240917144419.png",
+    "images/Pasted image 20240917144318.png",
+    "images/4-5.png",
+    "Screenshot.md",
     "Untitled.md",
     "Untitled",
-    "images/Pasted image 20240917144440.png",
-    "images/Pasted image 20240917144419.png",
     "images"
   ]
 }
